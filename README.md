@@ -1,2 +1,3 @@
 # NLP_Reader
-Program to answer questions based on a body of text as a human would.
+Python app that answers questions based on a body of text as a human would.
+This is draft 1.
